@@ -1,0 +1,21 @@
+.itemContainer {
+  display: flex;
+  padding: 10px;
+  margin-top: 25px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+.nameContainer {
+  margin-left: 20px;
+}
+
+.name {
+  font-size: larger;
+  font-weight: bold;
+}
+
+.amount {
+  font-weight: bold;
+  margin-top: 10px;
+}
